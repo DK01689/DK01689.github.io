@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://DK01689.github.io</id>
+    <id>https://DK01689.github.io/</id>
     <title>D.K.</title>
-    <updated>2020-02-13T11:18:37.990Z</updated>
+    <updated>2020-02-13T12:37:32.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://DK01689.github.io"/>
+    <link rel="alternate" href="https://DK01689.github.io/"/>
     <link rel="self" href="https://DK01689.github.io/atom.xml"/>
+    <subtitle>海纳百川 有容乃大 壁立千仞 无欲则刚</subtitle>
     <logo>https://DK01689.github.io/images/avatar.png</logo>
     <icon>https://DK01689.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, D.K.</rights>
