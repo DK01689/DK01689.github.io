@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://david2005.xyz/</id>
     <title>D.K.</title>
-    <updated>2020-02-15T05:26:31.189Z</updated>
+    <updated>2020-02-16T07:52:06.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://david2005.xyz/"/>
     <link rel="self" href="https://david2005.xyz/atom.xml"/>
-    <subtitle>Even the garkest night will end and the sun will rise.</subtitle>
+    <subtitle>Even the darkest night will end and the sun will rise.</subtitle>
     <logo>https://david2005.xyz/images/avatar.png</logo>
     <icon>https://david2005.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, D.K.</rights>
